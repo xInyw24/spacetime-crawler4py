@@ -1,4 +1,4 @@
-ABOUT
+ABOut
 -------------------------
 This is the base implementation of a full crawler that uses a spacetime
 cache server to receive requests.
@@ -28,7 +28,7 @@ that the terminal is at the root folder of this project.
 ```
 python -m pip install packages/spacetime-2.1.1-py3-none-any.whl
 python -m pip install -r packages/requirements.txt
-```
+`
 
 ### Step 2: Configuring config.ini
 
